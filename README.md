@@ -6,6 +6,6 @@ This project practices several features.
 * Merging Branches
 * Adding a readme file
 * Adding a license file
-* Adding .gitignore & gitattributes files
+* Adding .gitignore & .gitattributes files
 ## Spanish Playing Cards
 This is a preliminary readme file for the program.
